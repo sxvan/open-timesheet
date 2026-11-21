@@ -5,6 +5,6 @@
     <LangVersion>latest</LangVersion>
     <DebugType>embedded</DebugType>
     <!-- The release number of the app. release-please sets it in its release PR; do not edit it by hand. -->
-    <Version>0.1.0</Version>
+    <Version>1.0.0</Version>
   </PropertyGroup>
 </Project>
